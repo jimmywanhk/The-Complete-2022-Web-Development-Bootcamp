@@ -1,0 +1,5 @@
+Level 1 - Register Users with Username and Password
+Level 2 - Database Encryption
+Level 3 - Hashing Passwords
+Level 4 - Salting and Hashing Passwords with bcrypt
+Level 5 - OAuth 2.0 & How to Implement Sign In with Google
